@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/mypracticedevopsorg/New_Project_2024/_apis/build/status%2Fscrum-org.scrum-web?branchName=main)](https://dev.azure.com/mypracticedevopsorg/New_Project_2024/_build/latest?definitionId=54&branchName=main)
